@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Kur\kur\bin\Debug\kur.exe.config
+C:\Users\lenovo\Desktop\Kur\kur\bin\Debug\kur.exe
+C:\Users\lenovo\Desktop\Kur\kur\bin\Debug\kur.pdb
+C:\Users\lenovo\Desktop\Kur\kur\bin\Debug\Topshelf.dll
+C:\Users\lenovo\Desktop\Kur\kur\bin\Debug\Topshelf.xml
+C:\Users\lenovo\Desktop\Kur\kur\obj\Debug\kur.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Kur\kur\obj\Debug\kur.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Kur\kur\obj\Debug\kur.exe
+C:\Users\lenovo\Desktop\Kur\kur\obj\Debug\kur.pdb
